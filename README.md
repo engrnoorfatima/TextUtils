@@ -29,7 +29,7 @@ It allows users to transform and clean up text quickly with features like conver
 
 ## 📸 Screenshot
 
-![TextUtils Screenshot](./assets/textutilsjpeg)  
+![TextUtils Screenshot](./assets/textutils.jpeg)  
 
 ---
 
