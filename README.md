@@ -49,20 +49,3 @@ npm install
 
 # Start the development server
 npm start
-
-💡 Usage
-Type or paste your text in the input box
-
-Click any action button:
-
-UPPERCASE
-
-lowercase
-
-Remove Extra Spaces
-
-Copy Text
-
-Clear
-
-Toggle between Light and Dark Mode using the switch
